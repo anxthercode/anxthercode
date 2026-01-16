@@ -2,7 +2,7 @@
 - I’m currently focused on Python and PostgreSQL, building backend skills. I’m familiar with SQL (MySQL) and have basic C++ experience.
 - Learning by building small projects and improving them step by step.
 - Interested in writing clean, maintainable code and understanding system design basics.
-- Reach me at [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-galkin-6aa35039a/)
+- Reach me at [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-galkin-6aa35039a/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
