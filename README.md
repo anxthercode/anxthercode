@@ -1,29 +1,54 @@
-### Hi, I'm Vlad!
+<!-- Header -->
+<h1 align="center">Hi, I'm Vlad 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Focused+on+Python+%26+PostgreSQL;Building+backend+skills;Learning+step+by+step" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=blue" alt="profile views"/>
+</p>
 
 ---
 
-### :mahjong: About Me :
-- I’m currently focused on Python and PostgreSQL, building backend skills. I’m familiar with SQL (MySQL) and have basic C++ experience.
+### :mahjong: About Me
+- I’m currently focused on Python and PostgreSQL, building backend skills.
+- Familiar with SQL (MySQL) and have basic C++ experience.
 - Learning by building small projects and improving them step by step.
 - Interested in writing clean, maintainable code and understanding system design basics.
+
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
+### :hammer_and_wrench: Languages and Tools
+<p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" height="56"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" height="56"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" height="56"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" height="56"/>&nbsp;
-</div>
-<div>
+</p>
+<p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" height="56"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" height="56"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" height="56"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" height="56"/>&nbsp;
-</div>
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vladislav-galkin-6aa35039a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/?view=cm&to=officialgalkinv@gmail.com&su=SUBJECT&body=BODY&bcc=dakota@example.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
+---
+
+### 🤝 Connect with me
+<p>
+  <a href="https://www.linkedin.com/in/vladislav-galkin-6aa35039a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:officialgalkinv@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### :fire: My Stats
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&background=000000" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vision-friendly-dark" height="170" />
 </p>
