@@ -1,7 +1,7 @@
 <!-- Header -->
 # Hi, I'm Vlad
 
-### :mahjong: About Me
+## :mahjong: About Me
 - I’m currently focused on Python and PostgreSQL, building backend skills.
 - Familiar with SQL (MySQL) and have basic C++ experience.
 - Learning by building small projects and improving them step by step.
@@ -9,7 +9,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools
+## :hammer_and_wrench: Languages and Tools
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" height="56"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" height="56"/>&nbsp;
@@ -25,7 +25,7 @@
 
 ---
 
-### 🤝 Connect with me
+## :link: Connect with me
 <p>
   <a href="https://www.linkedin.com/in/vladislav-galkin-6aa35039a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
