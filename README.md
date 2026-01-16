@@ -1,4 +1,4 @@
-### Hi, I'm Vladislav!
+### Hi, I'm Vlad!
 
 ---
 
