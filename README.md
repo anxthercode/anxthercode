@@ -26,12 +26,5 @@
 ---
 
 ## :link: Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/vladislav-galkin-6aa35039a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="32" width="32" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:officialgalkinv@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Gmail" height="32" width="32" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-galkin-6aa35039a/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialgalkinv@gmail.com)
