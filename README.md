@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Focused+on+Python+%26+PostgreSQL;Building+backend+skills;Learning+step+by+step" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=blue" alt="profile views"/>
-</p>
-
 ---
 
 ### :mahjong: About Me
