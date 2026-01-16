@@ -1,3 +1,7 @@
+### 👋 Hi, I'm Vlad!
+
+---
+
 ### :mahjong: About Me :
 - I’m currently focused on Python and PostgreSQL, building backend skills. I’m familiar with SQL (MySQL) and have basic C++ experience.
 - Learning by building small projects and improving them step by step.
