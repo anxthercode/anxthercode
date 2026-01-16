@@ -1,9 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi, I'm Vlad 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Focused+on+Python+%26+PostgreSQL;Building+backend+skills;Learning+step+by+step" alt="Typing SVG" />
-</p>
+# Hi, I'm Vlad 👋
 
 ---
 
