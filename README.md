@@ -1,8 +1,6 @@
 <!-- Header -->
 # Hi, I'm Vlad
 
----
-
 ### :mahjong: About Me
 - I’m currently focused on Python and PostgreSQL, building backend skills.
 - Familiar with SQL (MySQL) and have basic C++ experience.
