@@ -28,10 +28,3 @@
 <a href="https://www.linkedin.com/in/vladislav-galkin-6aa35039a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://mail.google.com/mail/?view=cm&to=officialgalkinv@gmail.com&su=SUBJECT&body=BODY&bcc=dakota@example.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
 </p>
-
----
-
-### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=anxthercode
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anxthercode&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anxthercode&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
