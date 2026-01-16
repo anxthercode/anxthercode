@@ -1,5 +1,5 @@
 <!-- Header -->
-# Hi, I'm Vlad 👋
+# Hi, I'm Vlad
 
 ---
 
